@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 import java.awt.event.*;
 import java.awt.*;
 /***********主类*****************/
-public class ATMmodel {
+public class ATMmodel {         //李嘉雄添加的注释！蔡狗你能看见不！
     Account myaccount=new Account();//账户实例化
     Load load=new Load();
     MainFrame Jmain=new MainFrame();//主框架实例化
